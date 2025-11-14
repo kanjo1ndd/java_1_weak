@@ -1,0 +1,7 @@
+com\example\XmlWriter.class
+com\example\Main.class
+com\example\JsonFileParser.class
+com\example\XmlExporter.class
+com\example\FileProcessingManager.class
+com\example\Book.class
+com\example\StatisticsAggregator.class

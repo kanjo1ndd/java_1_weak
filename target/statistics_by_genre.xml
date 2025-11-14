@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<statistics>
+    <item>
+        <value>Romance</value>
+        <count>2</count>
+    </item>
+    <item>
+        <value>Dystopian</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>Satire</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>Political Fiction</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>Tragedy</value>
+        <count>1</count>
+    </item>
+</statistics>

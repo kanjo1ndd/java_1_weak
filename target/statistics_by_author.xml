@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<statistics>
+    <item>
+        <value>Jane Austen</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>George Orwell</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>William Shakespeare</value>
+        <count>1</count>
+    </item>
+</statistics>
